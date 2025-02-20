@@ -11,3 +11,8 @@
          
 🛠 Tecnologías Utilizadas 
 El sistema está desarrollado en Python y hace uso de: - Clases: Bus, Empresa, Pasajero y Ruta para estructurar la información. 
+
+Autores del Proyecto
+Kevin Torres - kevintorresleonel
+Sebastian Castro - SebastianCA19
+Vladimir Navarro - 
